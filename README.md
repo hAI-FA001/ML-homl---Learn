@@ -2,4 +2,4 @@
 These notebooks implement the code shown in each chapter for learning purposes.
 
 ## Purpose
-To bridge the gap between theoretical knoweldge and practical implementation.
+To bridge the gap between theoretical knowledge and practical implementation.
