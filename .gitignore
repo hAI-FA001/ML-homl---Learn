@@ -1,3 +1,8 @@
 .ipynb_checkpoints/
 datasets/
 mmap/
+wide_and_deep_model/
+**/*.keras
+**/*.h5
+my_logs/
+my_fashion_mnist/
